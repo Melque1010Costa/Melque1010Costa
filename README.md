@@ -18,7 +18,7 @@ Sou Analista de TI e Suporte, apaixonado por tecnologia e desenvolvimento web. A
 
 ### 📈 Minhas Estatísticas no GitHub
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/Melque1010Costa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melque1010Costa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melque1010Costa&layout=compact&langs_count=7&theme=radical"/>
   </a>
