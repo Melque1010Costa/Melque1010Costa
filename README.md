@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou Melquezedeque! 👋
 
-<!--
-**Melque1010Costa/Melque1010Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre Mim
+Sou Analista de TI e Suporte, apaixonado por tecnologia e desenvolvimento web. Atualmente focado em aprimorar minhas habilidades em bancos de dados e programação.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando com suporte e infraestrutura.
+- 🌱 Estudando desenvolvimento Fullstack.
+- 🎮 No tempo livre, gosto de jogar Minecraft Bedrock e gerenciar servidores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,vscode,windows" />
+</div>
+
+---
+
+### 📈 Minhas Estatísticas no GitHub
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
+
+---
+<div align="center">
+  <sub>Feito com 💜 e código.</sub>
+</div>
