@@ -1,5 +1,4 @@
 <div align="center">
-  
   <h1>Olá, sou Melquezedeque! 👋</h1>
   <h3>Analista de TI & Desenvolvedor Web</h3>
 
@@ -42,14 +41,20 @@
 
 <br>
 
-<h3>🛠️ Minhas Ferramentas (My Stack)</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,git,github,vscode,windows,linux&perline=10" />
+<h3>📊 Minhas Estatísticas</h3>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Melque1010Costa&show_icons=true&theme=dracula"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melque1010Costa&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 <br>
 
-
+<h3>🛠️ Minhas Ferramentas (My Stack)</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,php,git,github,vscode,windows,linux&perline=11" />
+</div>
 
 <br>
 
