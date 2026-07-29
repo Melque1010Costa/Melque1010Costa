@@ -25,7 +25,7 @@
         Sou apaixonado por tecnologia, atuando na interseção entre <b>Suporte de TI</b> e <b>Desenvolvimento</b>.
       </p>
       <ul>
-        <li>🔭 Atualmente trabalhando com suporte técnico e infraestrutura.</li>
+        <li>🔭 Atualmente trabalhando com Professor de Jogos Digitais.</li>
         <li>🌱 Estudando desenvolvimento Web Fullstack.</li>
         <li>🛠️ Focado em criar soluções que unem hardware e software.</li>
         <li>🎮 Fã de Minecraft Bedrock e administração de servidores.</li>
